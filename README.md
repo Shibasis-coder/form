@@ -1,5 +1,4 @@
-# form
-<!DOCTYPE html>
+# forms
 <html lang="en">
 <head>
     <meta charset="UTF-8">
