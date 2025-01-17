@@ -19,7 +19,7 @@
         
         <label for="password">Password:</label><br>
         <input type="password" id="password" name="password" required><br>
-        <label for="gender">Gender:</label><br> <select id="gender" name="gender" required> <option value="">--Please choose an option--</option> <option value="male">Male</option> <option value="female">Female</option> <option value="nonbinary">Non-binary</option> <option value="other">Other</option> <option value="prefer_not_to_say">Prefer not to say</option> </select><br><br>
+        <label for="gender">Gender:</label><br> <select id="gender" name="gender" required> <option value="">--Please choose an option--</option> <option value="male">Male</option> <option value="female">Female</option></select><br><br>
         
         <input type="submit" value="Submit">
     </form>
